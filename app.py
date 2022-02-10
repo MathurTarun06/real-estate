@@ -9,7 +9,7 @@ app.secret_key = os.urandom(24)
 
 
 # creating a connection object to connect with mysql database
-connection_obj=mysql.connector.connect(host="remotemysql.com",user="5tRN1vkakY",password="M86NPCF8Pl",database="5tRN1vkakY")
+connection_obj=mysql.connector.connect(host="remotemysql.com",user="8nRN1vkabC",password="C23NPCF8G2",database="8nRN1vkabC")
 
 # var to communicate with database
 cursor_obj = connection_obj.cursor()
